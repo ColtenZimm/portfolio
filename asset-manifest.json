@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ColtenZimm/Portfolio/static/css/main.f0611519.css",
+    "main.js": "/ColtenZimm/Portfolio/static/js/main.d3f3ef1c.js",
+    "index.html": "/ColtenZimm/Portfolio/index.html",
+    "main.f0611519.css.map": "/ColtenZimm/Portfolio/static/css/main.f0611519.css.map",
+    "main.d3f3ef1c.js.map": "/ColtenZimm/Portfolio/static/js/main.d3f3ef1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0611519.css",
+    "static/js/main.d3f3ef1c.js"
+  ]
+}
