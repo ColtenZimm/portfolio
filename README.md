@@ -30,8 +30,6 @@ npm run build
 ### Deploy
 You can deploy to GitHub Pages, Netlify, Vercel, or other static hosts.
 
-### Replace Resume
-Put your actual resume file named `resume.pdf` inside the `public/` folder to replace the placeholder.
 
 ## Tailwind CSS
 This project uses Tailwind CSS. If you want to customize styling, edit `tailwind.config.js` and the CSS file.
