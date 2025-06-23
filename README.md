@@ -2,7 +2,7 @@
 # Colten Zimmerman Portfolio
 
 ## Overview
-This is a React portfolio project showcasing your skills and projects. It uses Tailwind CSS for styling.
+This is a React portfolio project showcasing my skills and projects. It uses Tailwind CSS for styling.
 
 ## Setup Instructions
 
@@ -32,7 +32,7 @@ You can deploy to GitHub Pages, Netlify, Vercel, or other static hosts.
 
 
 ## Tailwind CSS
-This project uses Tailwind CSS. If you want to customize styling, edit `tailwind.config.js` and the CSS file.
+This project uses Tailwind CSS.
 
 ## Contact
 Email: coltenz00@gmail.com
